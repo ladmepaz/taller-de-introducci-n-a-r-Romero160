@@ -1,6 +1,6 @@
 # Resuelve el ejercicio de acuerdo a lo indicado dentro de la función
 
-solucion <- function(s){
+solucion <- function(){
   # Asigna un valor a 'parte2' y a 'sep' (si es necesario) de manera que a 's' se le asigne la cadena 'hola mundo' 
   parte1 <- 'hola'
   parte2 <- "mundo" # ingresar valor aquí
